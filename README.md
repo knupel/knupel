@@ -1,7 +1,7 @@
 ### Hello World, I'm creative coder from Earth !
 
 
-- 🔭 I’m currently working on React / gatsby and always with Processing
+- 🔭 I’m currently working on React / Gatsby and always with Processing
 
 - 👯 I’m looking to work and available to work like FrontEnd Developper or creative-coder
 
