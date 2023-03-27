@@ -7,8 +7,8 @@
 
 - 📫 How to reach me: send me an email stan@knupel.art !
 
-- 🔮[![instagram](https://www.instagram.com/knupel_art/)
+- 🔮 my ![instagram](https://www.instagram.com/knupel_art/)
 
-- 📺 my website ![knupel.art](https://www.knupel.art/)
+- 📺 my ![website knupel.art](https://www.knupel.art/)
 
 
